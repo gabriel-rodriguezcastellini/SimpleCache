@@ -1,7 +1,5 @@
 # Simple Cache
 This service is used to cache any item with a key identifier.
-
-## Requirements
 I've implemented `ICacheService` interface, there are three functions in this interface:
 ```
 public interface ICacheService
