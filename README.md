@@ -22,3 +22,7 @@ B[Thread B] -- Set Item `KEY_B` ---> S
 C[Thread C] -- Get Item `KEY_B` ---> S
 D[Thread D] -- Remove Item `KEY_A` ---> S
 ```
+
+## Status (GitHub Actions)
+
+[![.NET](https://github.com/gabriel-rodriguezcastellini/SimpleCache/actions/workflows/dotnet.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/SimpleCache/actions/workflows/dotnet.yml) [![CodeQL](https://github.com/gabriel-rodriguezcastellini/SimpleCache/actions/workflows/codeql.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/SimpleCache/actions/workflows/codeql.yml)
