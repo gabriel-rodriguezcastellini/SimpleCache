@@ -9,7 +9,7 @@ public interface ICacheService
     bool Remove(string key);
 }
 ```
-I keept in mind the following:
+Keep in mind the following:
  - Cache service is **thread-safe**
  - **Error handling** is considered 
  - I've used **Microsoft Dependency Injection** to initialize implementation of `ICacheService`
